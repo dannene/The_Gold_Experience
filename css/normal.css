@@ -3,8 +3,7 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "times new roman";
   font-weight: 400;
   font-style: normal;
 }
@@ -59,3 +58,11 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
+
+h2 {
+  margin: 1px 10px;
+}
+
+p {
+  margin: 1px 10px;
+}

@@ -1,4 +1,4 @@
-# Documentatie Het web is voor iedereen
+# _Documentatie Het web is voor iedereen_
 
 # Documentatie Sprint 0
 
@@ -42,6 +42,10 @@ Vervolgens hebben we interactie toegevoegd aan de website. Ik heb een link toege
 
 # Documentatie Sprint 1
 
+## Rangschik opdracht
+
+![rangschik](rangschik.png)
+
 ## Eigen verkenning
 
 ### Mijn onderwerp en inspiratie
@@ -65,3 +69,7 @@ Mijn eigen tekeningen, analyses en persoonlijke meningen laten zien.
 Ik wil experimenteren met afbeeldingen, kleuren, typografie en stijlen combineren om een bepaalde samenhangende sfeer neer te zetten.
 
 Het belangrijkste is wel dat mijn website niet alleen over JJBA gaat maar ook mijn eigen identiteit en persoonlijkheid laat zien. Ik wil dat de bezoekers het gevoel krijgen dat ze door een magazine bladeren en steeds meer ontdekken over mijn favoriete dingen.
+
+## Verzameling inspiratie
+
+https://pin.it/DcgZNnuZB

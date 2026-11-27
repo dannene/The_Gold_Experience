@@ -72,4 +72,5 @@ Het belangrijkste is wel dat mijn website niet alleen over JJBA gaat maar ook mi
 
 ## Verzameling inspiratie
 
+Op dit pintrest bord vind je veel verschillende afbeeldingen die ik als inspiratie wil gebruiken voor mijn Digital Garden.
 https://pin.it/DcgZNnuZB

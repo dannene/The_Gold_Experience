@@ -74,3 +74,23 @@ Het belangrijkste is wel dat mijn website niet alleen over JJBA gaat maar ook mi
 
 Op dit pintrest bord vind je veel verschillende afbeeldingen die ik als inspiratie wil gebruiken voor mijn Digital Garden.
 https://pin.it/DcgZNnuZB
+
+### styleguide onepager
+
+![styleguide](styleguide.png)
+
+![schetsonepager](schetsonepager.jpg)
+
+### Hi-Fi Figma ontwerp
+
+![figma](image.png)
+![figma-1](image-1.png)
+![figma-2](image-2.png)
+![figma-3](image-3.png)
+![figma-4](image-4.png)
+
+### Process HTML CSS
+
+![cover](cover.png)
+![light](lightmode.png)
+![dark](darkmode.png)

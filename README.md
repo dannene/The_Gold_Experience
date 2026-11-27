@@ -94,3 +94,8 @@ https://pin.it/DcgZNnuZB
 ![cover](cover.png)
 ![light](lightmode.png)
 ![dark](darkmode.png)
+
+bronnen
+https://armaina.com/ plaatjes hover
+https://jen.dev/ dark and light toggle
+https://www.w3schools.com/
